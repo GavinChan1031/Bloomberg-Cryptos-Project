@@ -1,5 +1,4 @@
 # reddit-maker
-[toc]
 
 ## Getting Started
 ### Requirements
