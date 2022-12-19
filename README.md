@@ -1,7 +1,7 @@
 # Bloomberg-Cryptos-Project
 This is the repository for the capstone project at Bloomberg.
 
-## Codes
+## codes
 
 `Codes` folder contains the important codes of this project. For specific codes and notations please refer to the folder.
 
@@ -11,4 +11,4 @@ This is the repository for the capstone project at Bloomberg.
 
 ## Acknowledgement
 
-Thanks to my teammates Yiren Yao https://www.linkedin.com/in/yiren-yao/ and supervisor Yang Wu https://www.linkedin.com/in/yangwufl/.
+Thanks my teammates Yiren Yao https://www.linkedin.com/in/yiren-yao/ and supervisor Yang Wu https://www.linkedin.com/in/yangwufl/.
